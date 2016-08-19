@@ -12,7 +12,7 @@ var Home = React.createClass({
           <img className="minus" src="./images/minus.png" />
           <div className="numTexty">
             <div className="num">0</div>
-            <div className="texty">tallyo</div>
+            <input type="text" className="texty" placeholder="tallyo"/>
           </div>
           <img className="plus" src="./images/plus.png" />
         </div>

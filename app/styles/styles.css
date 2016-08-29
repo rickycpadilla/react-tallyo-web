@@ -97,3 +97,9 @@ body{
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
+
+@media screen and (max-width: 550px) {
+  .numTexty {
+    margin: -20px;
+  }
+}
